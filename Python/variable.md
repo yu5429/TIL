@@ -43,3 +43,11 @@ print(a, b, c) # 1, 1, 1 출력
 kbs, mbc, sbs = "공영방송", "문화방송", "서울방송"
 print(kbs, mbc, sbs) # 공영방송, 문화방송, 서울방송 출력
 ```
+문자열 변수 활용<br>
+
+```
+a = "Python"
+b = " is fun"
+print(a+b) #'Python is fun' 출력
+print(a*100) #'Pyton' 100회 출력
+```
